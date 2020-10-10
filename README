@@ -10,7 +10,7 @@ How to test this tutorial
     pip install flask flask-sqlalchemy flask-restfull requests
 5. Run tutorial app
     python run.app
-6. Open in your browser 127.0.0.1/products
+6. Open in your browser http://127.0.0.1:5000/products
 
 Enjoy
 
